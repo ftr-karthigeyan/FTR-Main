@@ -1,3 +1,4 @@
 AWS has been the dominant player in the cloud market.
 AWS has the most extensive global infrastructure with data centers in multiple regions worldwide.
 AWS has a pay-as-you-go pricing model, with various pricing options for different services.
+Aws is better than Azure

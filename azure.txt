@@ -1,0 +1,3 @@
+Azure has been steadily gaining market share and is considered the strongest competitor to AWS.
+Azure also has a vast global network of data centers.
+Azure provides a similar breadth of services, covering compute, storage, databases, AI and IoT.
